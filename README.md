@@ -1,1 +1,1 @@
-# CSCE-350-Labs
+# CSCE-313-Labs
